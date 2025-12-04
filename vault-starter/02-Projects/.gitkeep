@@ -1,0 +1,8 @@
+# Projects Folder
+
+Create project files here using the template from /templates/project-template.md
+
+Each project should:
+- Have YAML frontmatter with relationships
+- Link to what it depends_on and blocks
+- Track progress and blockers
