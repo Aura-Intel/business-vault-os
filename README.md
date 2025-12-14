@@ -86,6 +86,19 @@ Built-in protections against common AI failure modes:
 - **Blocker Validation:** Catches phantom blockers (resolved but not updated)
 - **Truth-First Protocol:** Forces evidence-based responses, quote-back verification
 
+### 5. AI Security (Prompt Injection Defense)
+
+If you're building AI workflows that process external data (web scraping, APIs, user input), you need security layers to prevent prompt injection attacks.
+
+**[Read the AI Security Protocol →](guides/ai-security-protocol.md)**
+
+Includes:
+- 5-layer defense framework
+- Copy-paste JavaScript sanitization functions
+- Secure prompt templates
+- Output validation patterns
+- Quality gates checklist
+
 ---
 
 ## Quick Start Guide
